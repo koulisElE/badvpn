@@ -1,7 +1,7 @@
 ![](https://avatars1.githubusercontent.com/u/29370715?s=400&v=4)
 
 ## For calls/video calls,video games or any other usage of UDP packets
-<br>
+
 ![](https://img.shields.io/github/v/release/powermx/badvpn)
 ![](https://img.shields.io/github/repo-size/powermx/badvpn)
 ![](https://img.shields.io/github/stars/powermx/badvpn.svg) 
