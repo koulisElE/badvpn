@@ -1,6 +1,6 @@
 ![](https://avatars1.githubusercontent.com/u/29370715?s=400&v=4)
 
-Modulo para habilitar llamadas y juegos en linea.
+## For calls/video calls,video games or any other usage of UDP packets
 <br>
 ![](https://img.shields.io/github/v/release/powermx/badvpn)
 ![](https://img.shields.io/github/repo-size/powermx/badvpn)
@@ -8,7 +8,7 @@ Modulo para habilitar llamadas y juegos en linea.
 ![](https://img.shields.io/github/forks/powermx/badvpn.svg) 
 ![](https://img.shields.io/github/license/powermx/badvpn.svg)
 
-## Servicios Instalados: UDP 7300 [BadVPN](https://https://github.com/powermx/badvpn "BadVPN")
+## Services Installed : UDP 7300 (port) [BadVPN](https://https://github.com/powermx/badvpn "BadVPN")
 
 ![](https://img.shields.io/badge/Ubuntu-16.04-orange)
 ![](https://img.shields.io/badge/Ubuntu-16.10-orange)
@@ -21,15 +21,15 @@ Modulo para habilitar llamadas y juegos en linea.
 ![](https://img.shields.io/badge/Debian-9-red)
 ![](https://img.shields.io/badge/Debian-10-red)
 
-#### Instalacion
+#### Installation
 
-Instalación：`wget https://raw.githubusercontent.com/powermx/badvpn/master/easyinstall && bash easyinstall`
+Installation：`wget https://raw.githubusercontent.com/koulisElE/badvpn/master/easyinstall && bash easyinstall`
 
-##### Uso
+##### How to use
 
-Para Iniciar BadVPN teclea: `badvpn start`
+How to start BadVPN: `badvpn start`
 
-Para Detener BadVPN teclea: `badvpn stop`
+How to stop BadVPN: `badvpn stop`
 ### BadVPN
 
 [![](https://github.com/powermx/badvpn/raw/master/pwrmx.jpg)](https://github.com/powermx/badvpn/raw/master/pwrmx.jpg "BadVPN - PowerMX")
